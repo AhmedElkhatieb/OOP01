@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1173BB-88C6-4954-9B2F-B32E1B6FFDE4}|OOP_Assignment1\\OOP_Assignment1.csproj|c:\\web\\backend\\c#\\session 3\\oop_session01\\oop_assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1173BB-88C6-4954-9B2F-B32E1B6FFDE4}|OOP_Assignment1\\OOP_Assignment1.csproj|solutionrelative:oop_assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1173BB-88C6-4954-9B2F-B32E1B6FFDE4}|OOP_Assignment1\\OOP_Assignment1.csproj|c:\\web\\backend\\c#\\session 3\\oop_session01\\oop_assignment1\\point2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1173BB-88C6-4954-9B2F-B32E1B6FFDE4}|OOP_Assignment1\\OOP_Assignment1.csproj|solutionrelative:oop_assignment1\\point2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1173BB-88C6-4954-9B2F-B32E1B6FFDE4}|OOP_Assignment1\\OOP_Assignment1.csproj|c:\\web\\backend\\c#\\session 3\\oop_session01\\oop_assignment1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1173BB-88C6-4954-9B2F-B32E1B6FFDE4}|OOP_Assignment1\\OOP_Assignment1.csproj|solutionrelative:oop_assignment1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96855079-6AF8-4F91-B958-77EF623BBC95}|OOP_Session01_Demo\\OOP_Session01_Demo.csproj|c:\\web\\backend\\c#\\session 3\\oop_session01\\oop_session01_demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96855079-6AF8-4F91-B958-77EF623BBC95}|OOP_Session01_Demo\\OOP_Session01_Demo.csproj|solutionrelative:oop_session01_demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96855079-6AF8-4F91-B958-77EF623BBC95}|OOP_Session01_Demo\\OOP_Session01_Demo.csproj|c:\\web\\backend\\c#\\session 3\\oop_session01\\oop_session01_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96855079-6AF8-4F91-B958-77EF623BBC95}|OOP_Session01_Demo\\OOP_Session01_Demo.csproj|solutionrelative:oop_session01_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96855079-6AF8-4F91-B958-77EF623BBC95}|OOP_Session01_Demo\\OOP_Session01_Demo.csproj|c:\\web\\backend\\c#\\session 3\\oop_session01\\oop_session01_demo\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96855079-6AF8-4F91-B958-77EF623BBC95}|OOP_Session01_Demo\\OOP_Session01_Demo.csproj|solutionrelative:oop_session01_demo\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F534AF4F-F859-483C-BE2A-8660F9493863}|Common\\Common.csproj|c:\\web\\backend\\c#\\session 3\\oop_session01\\common\\typeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F534AF4F-F859-483C-BE2A-8660F9493863}|Common\\Common.csproj|solutionrelative:common\\typeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F534AF4F-F859-483C-BE2A-8660F9493863}|Common\\Common.csproj|c:\\web\\backend\\c#\\session 3\\oop_session01\\common\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F534AF4F-F859-483C-BE2A-8660F9493863}|Common\\Common.csproj|solutionrelative:common\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point2.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Assignment1\\Point2.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment1\\Point2.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Assignment1\\Point2.cs",
+              "RelativeToolTip": "OOP_Assignment1\\Point2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:11:32.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Assignment1\\Person.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment1\\Person.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Assignment1\\Person.cs",
+              "RelativeToolTip": "OOP_Assignment1\\Person.cs",
+              "ViewState": "AgIAAAQAAAAgMzMzMzMrwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:38:21.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment1\\Program.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Assignment1\\Program.cs",
+              "RelativeToolTip": "OOP_Assignment1\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwHYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:33:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Session01_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Session01_Demo\\Program.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Session01_Demo\\Program.cs",
+              "RelativeToolTip": "OOP_Session01_Demo\\Program.cs",
+              "ViewState": "AgIAAA0AAAAgAAAAAAAgwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:09:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Session01_Demo\\Point.cs",
+              "RelativeDocumentMoniker": "OOP_Session01_Demo\\Point.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Session01_Demo\\Point.cs",
+              "RelativeToolTip": "OOP_Session01_Demo\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:43:24.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Session01_Demo\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP_Session01_Demo\\Employee.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\OOP_Session01_Demo\\Employee.cs",
+              "RelativeToolTip": "OOP_Session01_Demo\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:40:41.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TypeB.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\Common\\TypeB.cs",
+              "RelativeDocumentMoniker": "Common\\TypeB.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\Common\\TypeB.cs",
+              "RelativeToolTip": "Common\\TypeB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:33:19.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TypeA.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\Common\\TypeA.cs",
+              "RelativeDocumentMoniker": "Common\\TypeA.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\Session 3\\OOP_Session01\\Common\\TypeA.cs",
+              "RelativeToolTip": "Common\\TypeA.cs",
+              "ViewState": "AgIAACMAAAAAZmZmZmYSwDAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:16:25.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
